@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+.meal-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.meal-card {
+    width: 250px;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+.meal-card img {
+    width: 80%;
+    border-radius: 5px;
+}
